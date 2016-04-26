@@ -18,23 +18,23 @@ q17 = not ("testing" == "testing" and "Zed" == "Cool Guy")
 q18 = 1 == 1 and (not ("testing" == 1 or 1 == 0))
 q19 = "chunky" == "bacon" and (not (3 == 4 or 3 == 3))
 q20 = 3 == 3 and (not ("testing" == "testing" or "Python" == "Fun"))
-print "q1 %r" %q1
-print "q2 %r" %q2
-print "q3 %r" %q3
-print "q4 %r" %q4
-print "q5 %r" %q5
-print "q6 %r" %q6
-print "q7 %r" %q7
-print "q8 %r" %q8
-print "q9 %r" %q9
-print "q10 %r" %q10
-print "q11 %r" %q11
-print "q12 %r" %q12
-print "q13 %r" %q14
-print "q14 %r" %q14
-print "q15 %r" %q15
-print "q16 %r" %q16
-print "q17 %r" %q17
-print "q18 %r" %q18
-print "q19 %r" %q19
-print "q20 %r" %q20
+print "q1 %r" % q1
+print "q2 %r" % q2
+print "q3 %r" % q3
+print "q4 %r" % q4
+print "q5 %r" % q5
+print "q6 %r" % q6
+print "q7 %r" % q7
+print "q8 %r" % q8
+print "q9 %r" % q9
+print "q10 %r" % q10
+print "q11 %r" % q11
+print "q12 %r" % q12
+print "q13 %r" % q14
+print "q14 %r" % q14
+print "q15 %r" % q15
+print "q16 %r" % q16
+print "q17 %r" % q17
+print "q18 %r" % q18
+print "q19 %r" % q19
+print "q20 %r" % q20

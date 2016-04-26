@@ -23,4 +23,4 @@ else:
     print "Fine, let's stay home then."
 
 if cars > people or trucks:
-	print "Too many vehicles."
+    print "Too many vehicles."
