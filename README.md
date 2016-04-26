@@ -1,3 +1,4 @@
 # learnpythonhardway
 working files for my python study
-NEW
+http://learnpythonthehardway.org/
+
